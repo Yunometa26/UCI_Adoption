@@ -1,6 +1,5 @@
-'use client'; // Required to use useState, useEffect in client-side components
-
-import Dashboard from '../components/Dashboard';
+'use client';
+import Dashboard from './components/Dashboard';
 
 export default function HomePage() {
   return (
